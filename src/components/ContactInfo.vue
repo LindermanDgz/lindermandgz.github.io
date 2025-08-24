@@ -8,7 +8,7 @@
             <v-col></v-col>
         </v-row>
         <v-row class="text-center">
-            <v-col cols="12">
+            <v-col cols="12" class="bungee-tint-regular">
                 Linderman Emmanuel
                 <br>
                 Dominguez Ordonez

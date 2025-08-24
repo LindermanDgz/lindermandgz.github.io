@@ -23,3 +23,43 @@ export default {
   }
 }
 </script>
+
+<style>
+/* @import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Nabla&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap'); */
+/* 
+.nabla-title {
+  font-family: "Nabla", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "EDPT" 100,
+    "EHLT" 12;
+} */
+
+.bungee-tint-regular {
+  font-family: "Bungee Tint", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* .sixtyfour-convergence-title {
+  font-family: "Sixtyfour Convergence", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0,
+    "XELA" 0,
+    "YELA" 0;
+} */
+
+.borderline {
+  border-style: solid;
+  border-radius: 1px;
+  border-color: red;
+}
+</style>
