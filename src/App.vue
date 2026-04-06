@@ -7,6 +7,11 @@
   </v-app>
 </template>
 
+<script setup>
+  import Resume from '@/components/Resume.vue'
+</script>
+
+
 <script>
 export default {
   data() {
@@ -28,7 +33,8 @@ export default {
 /* @import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap'); */
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Nabla&display=swap');
 /* @import url('https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap'); */
-/* 
+
+/*
 .nabla-title {
   font-family: "Nabla", serif;
   font-optical-sizing: auto;

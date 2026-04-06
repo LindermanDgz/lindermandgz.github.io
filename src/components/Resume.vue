@@ -20,3 +20,10 @@
         </v-row>
     </v-container>
 </template>
+
+<script setup>
+  import ContactInfo from '@/components/ContactInfo.vue'
+  import Stack from '@/components/Stack.vue'
+  import Education from '@/components/Education.vue'
+  import Experience from '@/components/Experience.vue'
+</script>
