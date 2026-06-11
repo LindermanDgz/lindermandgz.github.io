@@ -30,42 +30,49 @@ export default {
 </script>
 
 <style>
-/* @import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap'); */
-@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Nabla&display=swap');
-/* @import url('https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap'); */
-
-/*
-.nabla-title {
-  font-family: "Nabla", serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-  font-variation-settings:
-    "EDPT" 100,
-    "EHLT" 12;
-} */
-
-.bungee-tint-regular {
-  font-family: "Bungee Tint", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-/* .sixtyfour-convergence-title {
-  font-family: "Sixtyfour Convergence", serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-  font-variation-settings:
-    "BLED" 0,
-    "SCAN" 0,
-    "XELA" 0,
-    "YELA" 0;
-} */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Faster+One&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&display=swap');
 
 .borderline {
   border-style: solid;
   border-radius: 1px;
   border-color: red;
+}
+
+#app {
+  font-family: "Google Sans Flex", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "wdth" 100,
+    "GRAD" 0,
+    "ROND" 0;
+}
+
+.section {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: cornflowerblue;
+}
+
+.name {
+  font-family: "Faster One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 35px;
+  color: rgb(161, 167, 172);
+}
+
+.title {
+  font-family: "Amatic SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 60px;
+  color: cadetblue;
 }
 </style>

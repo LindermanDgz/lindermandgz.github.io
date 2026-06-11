@@ -2,7 +2,7 @@
     <v-container>
         <v-row class="text-center">
             <v-col>
-                Education
+                <h1 class="section">Education</h1>
             </v-col>
         </v-row>
         <v-row class="text-center">

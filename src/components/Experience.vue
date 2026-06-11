@@ -2,7 +2,7 @@
     <v-container>
         <v-row class="text-center">
             <v-col>
-                Job Experience
+                <h1 class="section">Job Experience</h1>
             </v-col>
         </v-row>
         <v-row>

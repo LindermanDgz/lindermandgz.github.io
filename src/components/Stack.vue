@@ -2,7 +2,7 @@
     <v-container>
         <v-row class="text-center">
             <v-col>
-                Stack
+                <h1 class="section">Stack</h1>
             </v-col>
         </v-row>
         <v-row align="center">

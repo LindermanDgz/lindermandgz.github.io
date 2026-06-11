@@ -9,12 +9,14 @@
         </v-row>
         <v-row class="text-center">
             <v-col cols="12" class="bungee-tint-regular">
+                <div class="name">
                 Linderman Emmanuel
                 <br>
                 Dominguez Ordonez
+                </div>
             </v-col>
             <v-col cols="12">
-                Software Engineer
+                <div class="title">Software Engineer</div>
             </v-col>
             <v-col cols="12">
                 <v-icon icon="mdi-email"></v-icon> <a href="mailto: euforia.dgz@gmail.com">euforia.dgz@gmail.com</a>
