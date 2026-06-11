@@ -49,13 +49,13 @@ export default {
         return {
             roles: [
                 {
-                    name: 'Software Engineer',
+                    name: 'DevOps Engineer',
                     company: 'Oracle Corporation',
                     date: {
                         start: "Sep 2024",
-                        end: "Present",
+                        end: "Mar 2026",
                     },
-                    description: "Oracle Linux YUM Service",
+                    description: "OCI Oracle Linux Services",
                     work_model: "Remote",
                 },
                 {
